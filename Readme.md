@@ -6,9 +6,9 @@ A REST API written in Django Rest Framework.
 
 ## Technologies used
 
-- [Django](https://www.djangoproject.com/)
-- [Django Rest Framework](https://www.django-rest-framework.org)
-- [Swagger](https://swagger.io/)
+- [Django](https://www.djangoproject.com/) 3.8+
+- [Django Rest Framework](https://www.django-rest-framework.org) 3.13+
+- [Swagger](https://swagger.io/) 1.21+
 
 
 

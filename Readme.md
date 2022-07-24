@@ -11,4 +11,8 @@
     'api/auth/get-details/'  --> to get details about the user including token (akin to login)
     'api/auth/delete-own-ac/<uuid:pk>/'  --> to delete a user's own account
     
+    While Using the token, please add the string "Token" prefix before the token, like:
+    
+    Token XXXXXXXXXXYYYYYYYYYYYYYYYYYYYYYYZZZZZZZZZZZZZZZ
+    
 

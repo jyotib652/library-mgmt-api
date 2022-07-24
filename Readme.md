@@ -21,7 +21,7 @@ There are two roles in the system;  `LIBRARIAN` and `MEMBER`
 **As a User**
 
 - I can signup either as `LIBRARIAN` and `MEMBER` using username and password
-- I can login using username/password and get JWT access token
+- I can login using username/password and get [JWT](https://jwt.io/introduction) access token
 
 **As a Librarian**
 
